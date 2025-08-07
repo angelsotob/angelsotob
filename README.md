@@ -14,6 +14,13 @@ In recent years, I've focused on making my work more modular, maintainable and s
 
 ---
 
+## 💼 Experience Summary
+
+- 🛠️ At [**Grupo Antolin**](https://www.antolin.com/) (Tier 1 automotive supplier), developed Visual C# GUI tools to test vehicle LED modules, using proprietary serial protocols similar to LIN/UART.
+- 🔧 At [**SETGA**](https://www.setga.es/) (mid-sized professional lighting manufacturer), led the Electronics Department: reviewed schematics, maintained embedded firmware, and supported production and quality teams.
+
+----
+
 ## 🚀 What do I do?
 
 At work and on my own, I'm currently designing and implementing embedded solutions that combine:
