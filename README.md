@@ -50,6 +50,14 @@ I'm also exploring personal projects such as:
 
 ---
 
+## 📈 GitHub Stats
+
+![Ángel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=angelsotob&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelsotob&layout=compact)
+
+---
+
 ## 📫 Let's connect
 
 You can reach me at:
